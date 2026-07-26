@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gift Tsatsa! 👋
 
-<!--
-**gifttsatsa50-creator/gifttsatsa50-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 17-year-old developer focused on building secure, safe, and impactful software systems. 
 
-Here are some ideas to get you started:
+## 🏆 Recent Achievements
+* **1st Place Winner** | 2026 Arundel School Hackathon (Junior Coding Category)
+  * Built **EcoQuests**, a gamified eco-habit tracker featuring an intelligent Python AI Assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Future & Career Interests
+I am actively building a foundation in software engineering with a long-term goal of joining the fields of:
+* 🤖 **AI Safety** (Ensuring alignment, security, and ethical deployment of intelligent systems)
+* 🔒 **Cybersecurity** (Network protection, defense strategies, and vulnerability assessment)
+* 🌐 **Cyber-Physical Systems** (Securing intersection points between software engineering and physical machinery)
+
+## 🛠️ Tech Stack & Skills
+* **Languages:** Python
+* **Focus Areas:** Algorithm Design, Automation, Secure Coding Practices
+
+*Feel free to explore my repositories or get in touch regarding computer science collaborations!*
