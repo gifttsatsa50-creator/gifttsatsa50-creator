@@ -6,7 +6,8 @@ I am a 17-year-old developer focused on building secure, safe, and impactful sof
 
 ## 🏆 Recent Engineering Achievements
 * **1st Place Winner** | 2026 Arundel School Hackathon (Junior Coding Category)
-  * Designed and built **EcoQuests**, a gamified eco-habit tracker powered by an intelligent Python AI assistant.
+  * Designed and built EcoQuests, a gamified eco-tracker powered by an intelligent Python AI assistant.
+  * **Official Verification Anchor:** [View 1st Place Certificate](https://github.com/gifttsatsa50-creator/EcoQuests-Hackathon/blob/main/certificates/1st_place_certificate.png)
 * **Certified Prompt Engineer** | Vanderbilt University Department of Computer Science
   * Successfully validated advanced skills in persona architecture, automated code verification scripting, and context optimization constraint patterns.
   * Official Verification Anchor: https://coursera.org/verify/BVUAVY25XX41
