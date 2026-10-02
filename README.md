@@ -24,6 +24,9 @@ I am a 17-year-old developer focused on building secure, safe, and impactful sof
 ### 3. [pyguard-sandbox](https://github.com/gifttsatsa50-creator/pyguard-sandbox)
 * A specialized desktop security suite modeling enterprise infrastructure flaws using the STRIDE matrix. Automatically runs threat compliance pipelines and isolates configuration prompts from active codebase logic. *(Includes verified program certification document inside the `assets/` subdirectory)*.
 
+### 4. [llm-security-gateway](https://github.com/gifttsatsa50-creator/llm-security-gateway)
+* A production-grade middleware pipeline and custom UI dashboard designed to defend Large Language Models against prompt injection attacks and enforce real-time Data Loss Prevention (DLP) and PII scrubbing.
+
 ---
 
 ## 🎯 Future & Career Interests
