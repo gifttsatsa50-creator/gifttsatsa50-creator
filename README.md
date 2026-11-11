@@ -50,11 +50,5 @@ I am actively building a foundation in software engineering with a long-term goa
 
 ---
 
-### 📫 Connect & Verify
-
-* 🌐 **GitHub Profile:** [github.com/giftsatsa50-creator](https://github.com/giftsatsa50-creator)
-
----
-
 Feel free to explore my repositories or get in touch regarding computer science collaborations!
 
